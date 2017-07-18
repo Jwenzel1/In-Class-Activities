@@ -1,0 +1,33 @@
+body{
+  background-color: gray;
+}
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+div{
+  display: inline-block;
+}
+
+p{
+  display: inline-block;
+  width: 72%;
+  vertical-align: top;
+}
+
+img{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.bio{
+  width: 60%;
+}
+
+.contact{
+  width: 40%;
+  float: right;
+}
